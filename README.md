@@ -35,6 +35,7 @@ Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 
 Result:
+
 Using deep learning we improved the Test accuracy to 93.11% and using feature engineering accuracy was improved upto 96% using M.L models
 Python 3
 Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
@@ -53,8 +54,10 @@ numpy, scipy- number python library
 pandas - data handling library
 keras - Used for making deep learning models
 hyperas - used for tuning hyper-parameters for deep learning models
-Authors
+
+Author:
 Siril Sam
+
 Acknowledgments
 Applied AI Course
 https://github.com/maxpumperla/hyperas
